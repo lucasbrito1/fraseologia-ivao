@@ -17,7 +17,6 @@ https://pernadovento.com.br/fraseologia/
 ## 🚀 Tecnologias utilizadas
 
 - React JS
-- SCSS
 - Styled Components
 - Material UI
 
