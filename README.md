@@ -23,4 +23,4 @@ https://pernadovento.com.br/fraseologia/
 
 ## 🖥️ Layout
 
-https://dashboard-sand-beta.vercel.app/
+https://frases-ivao.vercel.app/
