@@ -13,6 +13,7 @@ https://pernadovento.com.br/fraseologia/
 - Campos para preenchimento das informações de simbrief
 - Autopreenchimentos das frases de acordo com cada etapa de voo
 - Utilizado API para buscar informações meteorológicas dos aeroportos
+- Layout Responsivo
 
 ## 🚀 Tecnologias utilizadas
 
